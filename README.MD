@@ -4,7 +4,7 @@
 
 **************
 
-https://nmfs-fish-tools.github.io/YPR/
+https://nmfs-fish-tools.github.io/YPR
 
 **************
 
